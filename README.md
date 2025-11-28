@@ -1,4 +1,5 @@
 # Matrix Transformation Game
+![Uploading WhatsApp Image 2025-11-28 at 09.30.26_1eb5d969.jpg…]()
 
 A React-based game that demonstrates real-time matrix transformations using homogeneous coordinates. Control a spaceship using transformation matrices and collect targets in space!
 
@@ -102,3 +103,4 @@ This game demonstrates:
 - **State Management**: React hooks for game state
 
 Experience the power of matrix mathematics in this interactive space adventure!
+
